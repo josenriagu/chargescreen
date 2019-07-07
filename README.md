@@ -1,3 +1,6 @@
+# chargescreen
+Inspired by the interactive charge screen of Samsung One UI
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
