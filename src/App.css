@@ -3,29 +3,29 @@
   position: fixed;
   top: 50%;
   left: 50%;
-  margin-top: -5rem;
-  margin-left: -5rem;
+  margin-top: -6rem;
+  margin-left: -6rem;
   /* set display properties for chile elements */
   display: flex;
   align-items: baseline;
   justify-content: center;
   text-align: center;
   color: white;
-  width: 10rem;
-  height: 10rem;
+  width: 12rem;
+  height: 12rem;
   border-radius: 50%;
   animation: box-shadow-alive infinite 4s linear;
 }
 
 .counter {
-  font-size: 2.5rem;
+  font-size: 3rem;
   width: fit-content;
   height: fit-content;
   margin: auto 0;
 }
 
 span {
-  font-size: 1.5rem;
+  font-size: 2rem;
 }
 
 @keyframes box-shadow-alive {
